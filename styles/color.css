@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    align-items: center;
+  
+}
+.geek-color{
+    color: white;
+    width: 120px;
+}
+.home{
+    display: flex;
+    }
+.home-1{
+    list-style: none;
+    margin: 10px;
+    font-size: 18px;
+    padding-right: 20px;
+    }
