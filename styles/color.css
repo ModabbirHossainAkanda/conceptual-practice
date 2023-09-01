@@ -31,7 +31,7 @@
 
 /* main part start now */
 
-
+/* section-1 */
 .baba-maa{
     display: flex;
     justify-content: space-around;
@@ -53,4 +53,50 @@
     background-color: red;
     color: white;
     border: none;
+}
+
+/* section-2 */
+.boro-bap{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.about{
+    text-align: center;
+    padding-top: 20px;
+}
+.baccha2{
+    padding: 10px;
+    justify-content: space-between;
+}
+
+/* section-3 */
+.box{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 300px;
+    box-shadow: 4px 4px 15px gray;
+    padding: 15px;
+    text-align: center;
+}
+.icon{
+    width: 70px;
+}
+.box-h{
+    padding: 15px;
+}
+.description{
+    padding: 10px;
+}
+.new{
+ background-color: gray;
+ margin-top: 10px;
+}
+.service-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-image: url(../images/background.png),linear-gradient(45deg,rgb(5,5,5),#2e2e2e);
 }
